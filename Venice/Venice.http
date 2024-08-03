@@ -1,0 +1,6 @@
+@Venice_HostAddress = http://localhost:5110
+
+GET {{Venice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
